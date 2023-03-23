@@ -4,6 +4,8 @@
  * @i:the number to be checked
  *
  * Return: always zero
+ * 
+ */
 
 void positive_or_negative(int i)
 {
